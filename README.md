@@ -1,3 +1,3 @@
 # goodman
 My personal repository.
-hello wold
+hello world
